@@ -4,38 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Deep Learning Repository</title>
-<style>
-  body {
-    font-family: Arial, sans-serif;
-    line-height: 1.6;
-    margin: 0;
-    padding: 0;
-    background-color: #f4f4f4;
-  }
-  .container {
-    max-width: 800px;
-    margin: 20px auto;
-    padding: 20px;
-    background: #fff;
-    border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-  }
-  h1, h2 {
-    color: #333;
-  }
-  a {
-    color: #0066cc;
-    text-decoration: none;
-  }
-  a:hover {
-    text-decoration: underline;
-  }
-  .code {
-    background: #f4f4f4;
-    padding: 2px 4px;
-    border-radius: 4px;
-  }
-</style>
+
 </head>
 <body>
 <div class="container">
